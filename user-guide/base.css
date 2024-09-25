@@ -1,0 +1,15 @@
+body {
+	color: black;
+	background-color: white;
+	background: url("bg.png");
+}
+
+h1 {
+	font-family: "ƒƒCƒŠƒI", "‚l‚r ‚oƒSƒVƒbƒN";
+	font-weight: bold;
+	font-size: 150%;
+}
+
+p {
+	line-height: 125%;
+}
